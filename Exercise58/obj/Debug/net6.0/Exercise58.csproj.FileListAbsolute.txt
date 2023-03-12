@@ -1,0 +1,15 @@
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\bin\Debug\net6.0\Exercise58.exe
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\bin\Debug\net6.0\Exercise58.deps.json
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\bin\Debug\net6.0\Exercise58.runtimeconfig.json
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\bin\Debug\net6.0\Exercise58.dll
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\bin\Debug\net6.0\Exercise58.pdb
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\obj\Debug\net6.0\Exercise58.csproj.AssemblyReference.cache
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\obj\Debug\net6.0\Exercise58.GeneratedMSBuildEditorConfig.editorconfig
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\obj\Debug\net6.0\Exercise58.AssemblyInfoInputs.cache
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\obj\Debug\net6.0\Exercise58.AssemblyInfo.cs
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\obj\Debug\net6.0\Exercise58.csproj.CoreCompileInputs.cache
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\obj\Debug\net6.0\Exercise58.dll
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\obj\Debug\net6.0\refint\Exercise58.dll
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\obj\Debug\net6.0\Exercise58.pdb
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\obj\Debug\net6.0\Exercise58.genruntimeconfig.cache
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar08\HomeWork08\Exercise58\obj\Debug\net6.0\ref\Exercise58.dll
