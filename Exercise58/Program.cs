@@ -10,7 +10,7 @@
 int[] SizeInput(string Text)
 {
     System.Console.Write(Text);
-    return Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
+    return Array.ConvertAll(Console.ReadLine()!.Split(), int.Parse);
 }
 
 int[,] CreateMatrix(int m, int n)
